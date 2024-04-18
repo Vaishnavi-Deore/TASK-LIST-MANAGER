@@ -1,0 +1,31 @@
+body {
+    font-family: 'Baloo Bhai', cursive;
+  }
+  button{
+    font-family: 'Baloo Bhai', cursive;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:yellow;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .task-completed {
+    text-decoration: line-through;
+    color:green;
+  }
+  
